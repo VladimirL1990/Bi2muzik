@@ -135,9 +135,9 @@ body{
     font-weight: 200;
     font-family: Josefin sans;
     font-weight: bolder;
-    background: url(../images/B2_3.jpg); /*HEADER BACKGROUND IMAGE*/
+    background: url(../images/B2_3.jpg) ; /*HEADER BACKGROUND IMAGE*/
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 .navigation{
     width: 100%;
