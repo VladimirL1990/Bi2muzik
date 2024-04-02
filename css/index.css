@@ -800,7 +800,7 @@ ABOUT ONE
   #about-one .about-img{
       position: inline-block;
       width: 50%;
-      height:auto;
+      height:100%;
   }
  #about-one .about-img img{
     height: auto;
